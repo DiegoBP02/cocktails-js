@@ -1,5 +1,5 @@
 # cocktails-js
-Estudando JavaScript, aprendendo AJAX e modules. Site que mostra coquetéis através de uma API, possuindo uma página própria para cada coquetel. Feito através do curso de JavaScript do John Smilga. Linguagens utilizadas: HTML/CSS/JavaScript.
+Estudando JavaScript, aprendendo AJAX e modules. Site que mostra coquetéis através de uma API, possuindo uma página própria para cada coquetel. Além disso, possui uma barra de pesquisa que exibe os itens de acordo com as letras digitadas. Feito através do curso de JavaScript do John Smilga. Linguagens utilizadas: HTML/CSS/JavaScript.
 
 Página no GitHub Pages: https://diegobp02.github.io/cocktails-js/
 ![image](https://user-images.githubusercontent.com/103163622/184786734-03e18545-d916-4a90-b2b2-2c4897ab6cce.png)
